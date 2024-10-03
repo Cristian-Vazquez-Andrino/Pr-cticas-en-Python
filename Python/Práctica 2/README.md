@@ -41,7 +41,8 @@ A continuación, se describen brevemente los elementos principales que se encuen
 El script `Clustering.py` proporciona todas las funcionalidades necesarias para realizar el análisis de clasificación y clustering sobre el conjunto de datos. Para utilizar el script:
 
 1. Asegúrate de tener instaladas las librerías **scikit-learn** y **scipy** en tu entorno de Python.
-2. Las gráficas resultantes se generarán automáticamente y pueden ser visualizadas para comparar los resultados de los diferentes métodos aplicados.
+2. Asegúrate de tener el archivo `Personas_de_villa_laminera.txt` en el mismo directorio que `Clustering.py`.
+3. Las gráficas resultantes se generarán automáticamente y pueden ser visualizadas para comparar los resultados de los diferentes métodos aplicados.
 
 ## Notas Finales
 
