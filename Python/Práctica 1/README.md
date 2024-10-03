@@ -4,17 +4,17 @@
 Cristian Vázquez Andrino
 
 ## Descripción
-El objetivo principal de esta práctica es hallar el código Huffman binario de los alfabetos del inglés y del español, denominados `S_Eng` y `S_Esp`, respectivamente. 
+El objetivo principal de la práctica es hallar el código Huffman binario de los alfabetos del
+inglés y el español, que denominaremos `S_Eng` y `S_Esp`, respectivamente. Una vez los hayamos
+obtenido, comprobaremos que ambos códigos satisfacen el Primer Teorema de Shannon.
 
-Una vez obtenidos ambos códigos, se comprobará que satisfacen el Primer Teorema de Shannon.
+Seguidamente, codificaremos la palabra Lorentz en ambos códigos y también en binario
+usual, con la motivación de poner de manifiesto la eficiencia de longitud de los dos primeros
+códigos frente al último.
 
-## Funcionalidades
-1. **Codificación de Palabras o Textos**: 
-   - Codificación utilizando los códigos `S_Eng` y `S_Esp`.
-   - Codificación en binario usual para comparar la eficiencia de longitud de los códigos Huffman frente al método binario estándar.
-
-2. **Decodificación de Palabras o Textos**: 
-   - Desarrollo de un programa para decodificar cualquier palabra o texto codificado con alguno de los códigos Huffman obtenidos.
+Por último, desarrollaremos un programa para decodificar cualquier palabra o texto
+codificado en alguno de los dos códigos Huffman obtenidos (o en cualquier otro). A su vez,
+probaremos que funciona con el resultado del apartado anterior.
 
 ## Archivos del Proyecto
 - **`Codigo_de_Huffman.py`**: Contiene la implementación del código de Huffman, así como las funciones necesarias para las tareas de codificación y decodificación.
