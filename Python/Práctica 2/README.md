@@ -15,7 +15,7 @@ La práctica incluye las siguientes tareas principales:
   
 - **Predicción de la "franja de edad"**: Se predecirá la franja de edad a la que deben pertenecer dos personas basándonos en los valores de sus dos estados.
 
-Para la implementación de los algoritmos **KMeans** y **DBSCAN** se han utilizado las librerías disponibles en Python, específicamente **scikit-learn**. Para la representación del **Diagrama de Voronoi** se utilizó la librería **scipy**.
+Para la implementación de los algoritmos **KMeans** y **DBSCAN** se han utilizado las librerías disponibles en Python, específicamente `scikit-learn`. Para la representación del `Diagrama de Voronoi` se utilizó la librería `scipy`.
 
 ## Archivos de la práctica
   - La práctica se resuelve en el script **`Clustering.py`**.
@@ -27,7 +27,7 @@ Para la implementación de los algoritmos **KMeans** y **DBSCAN** se han utiliza
 
 El script `Clustering.py` proporciona todas las funcionalidades necesarias para realizar el análisis de clasificación y clustering sobre el conjunto de datos. Para utilizar el script:
 
-1. Asegúrate de tener instaladas las librerías **scikit-learn** y **scipy** en tu entorno de Python.
+1. Asegúrate de tener instaladas las librerías `scikit-learn` y `scipy` en tu entorno de Python.
 2. Asegúrate de tener el archivo `Personas_de_villa_laminera.txt` en el mismo directorio que `Clustering.py`.
 3. Las gráficas resultantes se generarán automáticamente y pueden ser visualizadas para comparar los resultados de los diferentes métodos aplicados.
 
