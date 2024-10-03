@@ -16,12 +16,14 @@ Por último, desarrollaremos un programa para decodificar cualquier palabra o te
 codificado en alguno de los dos códigos Huffman obtenidos (o en cualquier otro). A su vez,
 probaremos que funciona con el resultado del apartado anterior.
 
-## Archivos del Proyecto
+## Archivos de la Práctica
 - **`Codigo_de_Huffman.py`**: Contiene la implementación del código de Huffman, así como las funciones necesarias para las tareas de codificación y decodificación.
 - **`pract1_auxiliar_eng.txt`**: Muestra de texto en inglés utilizada para generar el código Huffman `S_Eng`.
 - **`pract1_auxiliar_esp.txt`**: Muestra de texto en español utilizada para generar el código Huffman `S_Esp`.
 
-Revisa el enunciado de la práctica y los comentarios dentro del script para más información detallada sobre el proceso y los resultados.
+Revisa el enunciado de la práctica y los comentarios dentro del script para más información detallada sobre el código y los resultados.
 
-## Uso
-Para ejecutar el script, simplemente ejecuta el archivo `Codigo_de_Huffman.py`. Asegúrate de tener los archivos `pract1_auxiliar_eng.txt` y `pract1_auxiliar_esp.txt` en el mismo directorio.
+## Método de Uso
+1. Asegúrate de tener instaladas las librerías `pandas` y `numpy`.
+2. Asegúrate de tener los archivos `pract1_auxiliar_eng.txt` y `pract1_auxiliar_esp.txt` en el mismo directorio.
+3. Para ejecutar el script, simplemente ejecuta el archivo `Codigo_de_Huffman.py`. 
