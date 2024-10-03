@@ -17,19 +17,6 @@ La práctica incluye las siguientes tareas principales:
 
 Para la implementación de los algoritmos **KMeans** y **DBSCAN** se han utilizado las librerías disponibles en Python, específicamente **scikit-learn**. Para la representación del **Diagrama de Voronoi** se utilizó la librería **scipy**.
 
-## Resumen de Contenido
-
-A continuación, se describen brevemente los elementos principales que se encuentran en el proyecto:
-
-- **Clasificación y Clustering con KMeans y DBSCAN**: 
-  - Se implementan y se aplican los algoritmos de clasificación **KMeans** y **DBSCAN** al conjunto de datos 'Villa Laminera'.
-  - Se utiliza el **coeficiente de Silhouette** para evaluar la calidad de los clusters y determinar el número óptimo de vecindades en el conjunto de datos.
-
-- **Representación Gráfica**:
-  - Se representa el diagrama de **Voronoi** utilizando el algoritmo KMeans con **métrica euclidiana**.
-  - Se graficará el **coeficiente de Silhouette** en función del número de vecindades, utilizando el algoritmo KMeans.
-  - Posteriormente, se repetirá con el algoritmo **DBSCAN** para las métricas **manhattan** y **euclidiana**.
-
 ## Archivos de la práctica
   - La práctica se resuelve en el script **`Clustering.py`**.
   - El archivo **`Personas_de_villa_laminera.txt`** es un archivo auxiliar que contiene los datos que se usan para la clasificación y el clustering.
