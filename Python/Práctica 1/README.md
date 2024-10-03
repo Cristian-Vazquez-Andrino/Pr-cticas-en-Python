@@ -1,4 +1,4 @@
-# Huffman Coding Practice
+# Código de Huffman y Teorema de Shanon
 
 ## Autor
 Cristian Vázquez Andrino
