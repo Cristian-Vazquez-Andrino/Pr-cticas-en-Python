@@ -5,6 +5,7 @@ Autor: Cristian Vázquez Andrino / Grupo 2
 """
 Diagrama de Voronoi y Clustering
 """
+
 import os
 import numpy as np
 
