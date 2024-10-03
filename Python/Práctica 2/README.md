@@ -34,5 +34,3 @@ El script `Clustering.py` proporciona todas las funcionalidades necesarias para 
 ## Notas Finales
 
 - La práctica tiene como propósito no solo la aplicación de técnicas de clasificación y clustering, sino también la **visualización** de los resultados, lo cual es clave para entender mejor la agrupación y las relaciones entre los datos.
-
-- Recomendamos experimentar con los parámetros de los algoritmos **KMeans** y **DBSCAN** (como el número de clusters o la distancia máxima entre vecinos) para observar cómo estos afectan a la calidad y estructura de los clusters obtenidos.
