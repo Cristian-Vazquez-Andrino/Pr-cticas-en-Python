@@ -11,8 +11,8 @@ La práctica emplea una gran variedad de herramientas y bibliotecas de Python pa
 - `matplotlib.pyplot`: para la generación de gráficos y visualizaciones.
 - `imageio`: para la creación de animaciones GIF a partir de imágenes.
 - `io`: para el manejo de operaciones de entrada/salida.
-- `matplotlib.cm`: para mapas de colores en las visualizaciones.
 - `skimage.io`: para la lectura de imágenes.
+- `matplotlib.cm`: para mapas de colores en las visualizaciones.
 - `scipy.spatial.ConvexHull` y `scipy.spatial.distance`: para cálculos geométricos.
 
 ## Archivos de la Práctica
