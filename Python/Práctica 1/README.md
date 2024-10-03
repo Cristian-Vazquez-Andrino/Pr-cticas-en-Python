@@ -9,7 +9,7 @@ El objetivo principal de esta práctica es hallar el código Huffman binario de 
 Una vez obtenidos ambos códigos, se comprobará que satisfacen el Primer Teorema de Shannon.
 
 ## Funcionalidades
-1. **Codificación de la palabra "Lorentz"**: 
+1. **Codificación de Palabras o Textos**: 
    - Codificación utilizando los códigos `S_Eng` y `S_Esp`.
    - Codificación en binario usual para comparar la eficiencia de longitud de los códigos Huffman frente al método binario estándar.
 
