@@ -25,6 +25,3 @@ Revisa el enunciado de la práctica y los comentarios dentro del script para má
 
 ## Uso
 Para ejecutar el script, simplemente ejecuta el archivo `Codigo_de_Huffman.py`. Asegúrate de tener los archivos `pract1_auxiliar_eng.txt` y `pract1_auxiliar_esp.txt` en el mismo directorio.
-
-```sh
-python Codigo_de_Huffman.py
