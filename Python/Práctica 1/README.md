@@ -10,6 +10,6 @@ Por último, desarrollaremos un programa para decodificar cualquier palabra o te
 codificado en alguno de los dos códigos Huffman obtenidos (o en cualquier otro). A su vez,
 probaremos que funciona con el resultado del apartado anterior.
 
-El script asociado a esta práctica es 'Codigo_de_Huffman.py'. Los archivos 
+La práctica es resuelta en el script 'Codigo_de_Huffman.py'. Los archivos 
 'pract1_auxiliar_eng.txt' y 'pract1_auxiliar_esp.txt' son auxiliares. Revisar el enunciado
-de la práctica y comentarios del script para obtener más información.
+de la práctica y comentarios del script para más información.
