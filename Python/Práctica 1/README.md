@@ -1,3 +1,5 @@
+AUTOR: Cristian Vázquez Andrino
+
 El objetivo principal de la práctica es hallar el código Huffman binario de los alfabetos del
 inglés y el español, que denominaremos S_Eng y S_Esp, respectivamente. Una vez los hayamos
 obtenido, comprobaremos que ambos códigos satisfacen el Primer Teorema de Shannon.
