@@ -1,1 +1,14 @@
-A
+El propósito de esta práctica es implementar y aplicar en Python transformaciones isométricas
+afines a figuras tridimensionales e imágenes. Representaremos dichas trasformaciones por medio 
+de dos animaciones, las cuales han sido adjuntadas. 
+
+La práctica emplea una gran variedad de herramientas y bibliotecas de Python para implementar 
+y visualizar las transformaciones afines:
+numpy: para operaciones matemáticas eficientes.
+matplotlib.pyplot: para la generación de gráficos y visualizaciones.
+imageio: para la creación de animaciones GIF a partir de imágenes.
+io: para el manejo de operaciones de entrada/salida.
+matplotlib.cm: para mapas de colores en las visualizaciones.
+skimage.io: para la lectura de imágenes.
+scipy.spatial.ConvexHull y scipy.spatial.distance: para cálculos geométricos.
+
