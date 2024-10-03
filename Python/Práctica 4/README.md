@@ -11,3 +11,5 @@ shapely.geometry: Para calcular áreas de polígonos y manipular geometrías.
 alphashape: Para aproximar polígonos no convexos a partir de conjuntos de puntos.
 io y os: Para manipulación de archivos y entrada/salida.
 
+La práctica es resuelta en el script 'Liouville.py'. Revisar el enunciado de la práctica y los comentarios 
+del script para más información.
