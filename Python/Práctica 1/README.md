@@ -25,5 +25,5 @@ Revisa el enunciado de la práctica y los comentarios dentro del script para má
 
 ## Método de Uso
 1. Asegúrate de tener instaladas las librerías `pandas` y `numpy`.
-2. Asegúrate de tener los archivos `pract1_auxiliar_eng.txt` y `pract1_auxiliar_esp.txt` en el mismo directorio.
+2. Asegúrate de tener los archivos `pract1_auxiliar_eng.txt` y `pract1_auxiliar_esp.txt` en el mismo directorio que `Codigo_de_Huffman.py`.
 3. Para ejecutar el script, simplemente ejecuta el archivo `Codigo_de_Huffman.py`. 
