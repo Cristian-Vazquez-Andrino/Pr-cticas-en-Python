@@ -1,0 +1,5 @@
+[Objeto 4 12,Objeto 2 6,Objeto 5 14,Objeto 1 5,Objeto 3 11,Objeto 3 12,Objeto 7 21]
+
+ Mejor mochila:[Objeto 4 12,Objeto 2 6,Objeto 5 14,Objeto 1 5,Objeto 3 11,Objeto 3 12,Objeto 7 21]
+ 
+ Valor:81

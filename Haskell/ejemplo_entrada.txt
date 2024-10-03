@@ -1,0 +1,10 @@
+200
+[Objeto 2 5,Objeto 3 8,Objeto 5 13,Objeto 7 21,Objeto 1 2,Objeto 2 6,Objeto 3 11,Objeto 4 12,Objeto 5 14,Objeto 3 12,Objeto 8 15,Objeto 13 30,Objeto 9 23,Objeto 1 5]
+50
+25
+10
+20
+100
+0.5
+5
+4
