@@ -5,6 +5,9 @@ en el conjunto de datos, se representará el diagrama de Voronói usando KMeans 
 la "franja de edad" a la que deben pertenecer dos personas basándonos en los valores de sus dos
 estados. 
 
+Para la implementación de los algoritmos de clasificación KMeans y DBSCAN se han utilizado las librerías disponibles 
+en Python, específicamente scikit-learn. Para a la representación del diagrama de Voronói se usó la librería scipy.
+
 Simultáneamente, se graficará coeficiente de Silhouette en función del número de vecindades usando algoritmo KMeans, 
 y porteriormente se hará usando el algoritmo DBSCAN para las métricas manhattan y euclidiana. Se adjuntan las gráficas 
 resultantes, las cuales pueden obtenerse a través de las funciones del propio script.
