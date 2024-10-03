@@ -1,4 +1,7 @@
-# Clasificación y Clustering en 'Villa Laminera'
+# Clustering y Diagrama de Voronoi
+
+## Autor
+Cristian Vázquez Andrino
 
 ## Objetivo de la Práctica
 
