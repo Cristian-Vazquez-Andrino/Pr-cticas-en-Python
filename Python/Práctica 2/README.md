@@ -30,7 +30,7 @@ A continuación, se describen brevemente los elementos principales que se encuen
   - Se graficará el **coeficiente de Silhouette** en función del número de vecindades, utilizando el algoritmo KMeans.
   - Posteriormente, se repetirá con el algoritmo **DBSCAN** para las métricas **manhattan** y **euclidiana**.
 
-- **Archivos del Proyecto**:
+## Archivos de la práctica
   - La práctica se resuelve en el script **`Clustering.py`**.
   - El archivo **`Personas_de_villa_laminera.txt`** es un archivo auxiliar que contiene los datos que se usan para la clasificación y el clustering.
   
@@ -41,17 +41,10 @@ A continuación, se describen brevemente los elementos principales que se encuen
 El script `Clustering.py` proporciona todas las funcionalidades necesarias para realizar el análisis de clasificación y clustering sobre el conjunto de datos. Para utilizar el script:
 
 1. Asegúrate de tener instaladas las librerías **scikit-learn** y **scipy** en tu entorno de Python.
-2. Ejecuta el script `Clustering.py` para realizar las siguientes tareas:
-   - Calcular el **coeficiente de Silhouette** y determinar el número óptimo de vecindades.
-   - Representar el **diagrama de Voronoi** utilizando **KMeans** con métrica **euclidiana**.
-   - Graficar el **coeficiente de Silhouette** para KMeans y DBSCAN, usando las métricas **manhattan** y **euclidiana**.
-
-3. Las gráficas resultantes se generarán automáticamente y pueden ser visualizadas para comparar los resultados de los diferentes métodos aplicados.
+2. Las gráficas resultantes se generarán automáticamente y pueden ser visualizadas para comparar los resultados de los diferentes métodos aplicados.
 
 ## Notas Finales
 
 - La práctica tiene como propósito no solo la aplicación de técnicas de clasificación y clustering, sino también la **visualización** de los resultados, lo cual es clave para entender mejor la agrupación y las relaciones entre los datos.
 
 - Recomendamos experimentar con los parámetros de los algoritmos **KMeans** y **DBSCAN** (como el número de clusters o la distancia máxima entre vecinos) para observar cómo estos afectan a la calidad y estructura de los clusters obtenidos.
-
-- Asegúrate de revisar el script `Clustering.py` y los comentarios incluidos para un entendimiento detallado del proceso implementado.
