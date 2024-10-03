@@ -9,5 +9,5 @@ Simultáneamente, se graficará coeficiente de Silhouette en función del númer
 y porteriormente se hará usando el algoritmo DBSCAN para las métricas manhattan y euclidiana. Se adjuntan las gráficas 
 resultantes, las cuales pueden obtenerse a través de las funciones del propio script.
 
-El script asociado a esta práctica es 'Clustering.py'. El archivo 'Personas_de_villa_laminera' es auxiliar. Revisar el 
-enunciado de la práctica y los comentarios del script para más detalles.
+La práctica es resuelta en el script 'Clustering.py'. El archivo 'Personas_de_villa_laminera' es auxiliar. Revisar el 
+enunciado de la práctica y los comentarios del script para más información.
