@@ -3,11 +3,9 @@
 ## Autor
 Cristian Vázquez Andrino
 
-## Objetivo de la Práctica
+## Descripción
 
 El objetivo principal de esta práctica es explorar y aplicar técnicas de **clasificación** a un conjunto de datos de la población ficticia 'Villa Laminera'. En este proyecto se implementarán y usarán los algoritmos de clasificación **KMeans** y **DBSCAN**, además de otras técnicas estadísticas y de visualización.
-
-## Descripción
 
 La práctica incluye las siguientes tareas principales:
 
