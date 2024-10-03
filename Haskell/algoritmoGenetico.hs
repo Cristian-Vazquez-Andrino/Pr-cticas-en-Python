@@ -412,9 +412,3 @@ algoritmoGeneticoS txt = lineas mochilas ++ "\n Mejor mochila:" ++ show mejor ++
 lineas:: [Mochila] -> String
 lineas [] = ""
 lineas (mochila:mochilas) = show mochila ++ "\n" ++ lineas mochilas
-
-{-
-
-:l D:\HASKELL\practica.hs 
-
--}
